@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭  I make software documentation and docs websites
-- 💬  Ask me about comma splices 🙄
-- 📫  How to reach me: [twitter dot com](https://twitter.com/pfd)
-- 😄  Pronouns: he/him
-- ⚡  Fun fact: I gave Andre the Giant a high five once
+- 🔭  &nbsp; I make software documentation and docs websites
+- 💬  &nbsp; Ask me about comma splices 🙄
+- 📫  &nbsp; How to reach me: [twitter dot com](https://twitter.com/pfd)
+- 😄  &nbsp; Pronouns: he/him
+- ⚡  &nbsp; Fun fact: I gave Andre the Giant a high five once
 <!--
 **pfd/pfd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
