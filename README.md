@@ -4,7 +4,7 @@
 - 💬  &nbsp; Ask me about comma splices 🙄
 - 📫  &nbsp; How to reach me: [twitter dot com](https://twitter.com/pfd)
 - 😄  &nbsp; Pronouns: he/him
-- ⚡  &nbsp; Fun fact: I gave Andre the Giant a high five once
+- ⚡  &nbsp; Fun fact: I gave Andre the Giant a high five
 <!--
 **pfd/pfd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
